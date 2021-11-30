@@ -1,4 +1,4 @@
-baseURL = "https://gohugo.io/"
+baseURL = ""
 title = "That Simple Electrical Engineer"
 author = "Adhithya"
 paginate = 3
