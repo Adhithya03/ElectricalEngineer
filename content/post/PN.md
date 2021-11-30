@@ -73,6 +73,5 @@ It is defined as the maximimum **reverse voltage** that a diode can withstand wi
 ## Used in 
 
 - [Half wave rectifier]({{<ref "/post/Half wave rectifier.md">}})
-- [Full wave bridge rectifier]({{<ref "/post/Full wave bridge.md">}})
-- [Full wave center tapped rectifier]({{<ref "/post/Full wave center tapped.md">}})
+
 
