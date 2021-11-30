@@ -1,7 +1,7 @@
 ---
-title: "Two port network"
+title: "Full wave bridge"
 date : 2021-11-30T11:07:34+05:30
-draft: true
+draft: false
 mathjax : true
 categories : ["EDC"]
 

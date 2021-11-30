@@ -1,7 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+data: {{.Date}}
 draft: false
 mathjax : true
+categories : [""]
+
 ---
 
