@@ -10,7 +10,7 @@ theme = "hugo-casper3"
 
 [params]
   github = "https://github.com/Adhithya03"
-  description = "Just testing the website."
+  #description = "Welcome."
   mainSections = ["post"]
 
 [menu]
@@ -24,13 +24,13 @@ theme = "hugo-casper3"
     name = "Machines"
     url = "/categories/EM/"
     weight = 20
-  [[menu.main]]
-    identifier = "Electrodynamics"
-    name = "Electrodynamics"
-    url = "/categories/EMT/"
-    weight = 30
-  [[menu.main]]
-    identifier = "Math"
-    name = "Math"
-    url = "/categories/MAT/"
-    weight = 40
+#  [[menu.main]]
+#    identifier = "Electrodynamics"
+#    name = "Electrodynamics"
+#    url = "/categories/EMT/"
+#    weight = 30
+#  [[menu.main]]
+#    identifier = "Math"
+#    name = "Math"
+#    url = "/categories/MAT/"
+#    weight = 40
