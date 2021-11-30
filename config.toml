@@ -1,0 +1,36 @@
+baseURL = "https://gohugo.io/"
+title = "That Simple Electrical Engineer"
+author = "Adhithya"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = "hugo-casper3"
+
+[params]
+  github = "https://github.com/Adhithya03"
+  description = "Just testing the website."
+  mainSections = ["post"]
+
+[menu]
+  [[menu.main]]
+    identifier = "Devices"
+    name = "Devices"
+    url = "/categories/EDC/"
+    weight = 10
+  [[menu.main]]
+    identifier = "Machines"
+    name = "Machines"
+    url = "/categories/EM/"
+    weight = 20
+  [[menu.main]]
+    identifier = "Electrodynamics"
+    name = "Electrodynamics"
+    url = "/categories/EMT/"
+    weight = 30
+  [[menu.main]]
+    identifier = "Math"
+    name = "Math"
+    url = "/categories/MAT/"
+    weight = 40
