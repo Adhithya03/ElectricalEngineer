@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://adhithya.netlify.app/"
 title = "That Simple Electrical Engineer"
 author = "Adhithya"
 paginate = 3
