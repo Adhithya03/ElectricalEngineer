@@ -4,7 +4,7 @@ date : 2021-11-30T11:07:34+05:30
 draft: false
 mathjax : true
 categories : ["EDC"]
-
+author : adhithya
 ---
 Unlike linear resistance , the resistance of the forward-biased diode is not constant over the entire curve. Because the resistance changes as you move along the VI curve , It is called *dynamic or ac resistance* .$r'_d$
 

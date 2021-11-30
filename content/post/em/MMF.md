@@ -1,10 +1,11 @@
 ---
 title: "Flux Reluctance and M.M.F explained"
-data: 2021-11-30T16:40:36+05:30
 draft: false
 mathjax : true
 categories : ["EM"]
+author : adhithya
 ---
+
 ## Flux
 
 -  The magnetic flux $\phi$ (phi) is similar to current in ohm's law formula, It is the total number of lines of force existing in the magnetic circuit. The maxwell is the unit of flux-that is, 1 line of force is equal to maxwell.

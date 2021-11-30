@@ -2,8 +2,9 @@
 title: "FET"
 date : 2021-11-30T11:07:34+05:30
 draft: true
-mathjax : true
+mathjax : false
 categories : ["EDC"]
+author : adhithya
 ---
 
 # FET
@@ -58,6 +59,7 @@ When compared to BJT
 N bar is sandwidtched between 2 P layers
 
 - We have 2 PN junctions , so 2 depletion region 
+<!-- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_DZ7baOhNFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-
-[Construction and Working of JFET - YouTube](https://www.youtube.com/watch?v=_DZ7baOhNFQ&list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS&index=124&ab_channel=NesoAcademy)
+{{< youtube _DZ7baOhNFQ>}}

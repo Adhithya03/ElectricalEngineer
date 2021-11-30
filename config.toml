@@ -7,12 +7,12 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "hugo-casper3"
-
+ 
 [params]
-  github = "https://github.com/Adhithya03"
-  #description = "Welcome."
+  cover = "EM/simple_core.png"
   mainSections = ["post"]
-
+  #logo = 
+  authoravatar = "profile_pic.jpg/" 
 [menu]
   [[menu.main]]
     identifier = "Devices"
