@@ -39,7 +39,7 @@ categories : ["EDC"]
 
 	
 		
-- As you continue to increase $V_F$ , the current continues to increase very rapidly , but the voltage across the diode increases only gradually above $0.7V$  . This small increase in diode voltage above the varrier potential is due to voltage drop across the internal [[Dynamic resistance]] of semiconductor material. 
+- As you continue to increase $V_F$ , the current continues to increase very rapidly , but the voltage across the diode increases only gradually above $0.7V$  . This small increase in diode voltage above the varrier potential is due to voltage drop across the internal [Dynamic resistance]({{<ref "/post/Dynamic resistance.md">}}) of semiconductor material. 
 	
 ###### Reverse bias
 
@@ -68,7 +68,7 @@ As temperature is increases , the reverse current increases.
 
 It is defined as the maximimum **reverse voltage** that a diode can withstand without destroying the junction.
 
-<br>
+
 	
 ## Used in 
 

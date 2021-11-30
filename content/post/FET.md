@@ -1,7 +1,7 @@
 ---
 title: "FET"
 date : 2021-11-30T11:07:34+05:30
-draft: false
+draft: true
 mathjax : true
 categories : ["EDC"]
 ---

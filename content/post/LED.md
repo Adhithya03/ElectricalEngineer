@@ -47,9 +47,3 @@ categories : ["EDC"]
 
 - IR Counting systems. In combination with detector.
 
-
-
-
-
-
-
