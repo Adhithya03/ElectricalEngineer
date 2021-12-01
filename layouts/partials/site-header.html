@@ -1,0 +1,6 @@
+<div class="outer site-nav-main">
+    <div class="inner">
+        {{- partial "site-nav.html" . -}}
+        {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
+    </div>
+</div>
