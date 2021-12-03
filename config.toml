@@ -29,8 +29,8 @@ theme = "hugo-casper3"
 #    name = "Electrodynamics"
 #    url = "/categories/EMT/"
 #    weight = 30
-#  [[menu.main]]
-#    identifier = "Math"
-#    name = "Math"
-#    url = "/categories/MAT/"
-#    weight = 40
+[[menu.main]]
+  identifier = "MathS"
+  name = "MathS"
+  url = "/categories/MATHS/"
+  weight = 40
