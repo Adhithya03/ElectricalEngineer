@@ -26,4 +26,4 @@ The active length of wire or strip in the slot.
 ![Turn](/EM/turn.jpg)
 
 
-*Book referred - Electrical machine design by A.K.Sawhney*
+*Book referred - Electrical machine design by A.K.Sawhney*(Sorry I couldn't find the pdf version of this book.)

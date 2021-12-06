@@ -9,28 +9,30 @@ footnoteReturnLinkContents = "^"
 theme = "hugo-casper3"
  
 [params]
-  cover = "EM/simple_core.png"
   mainSections = ["post"]
-  #logo = 
-  authoravatar = "profile_pic.jpg/" 
 [menu]
   [[menu.main]]
     identifier = "Devices"
     name = "Devices"
     url = "/categories/EDC/"
-    weight = 10
+    weight = 1
   [[menu.main]]
     identifier = "Machines"
     name = "Machines"
     url = "/categories/EM/"
-    weight = 20
-#  [[menu.main]]
-#    identifier = "Electrodynamics"
-#    name = "Electrodynamics"
-#    url = "/categories/EMT/"
-#    weight = 30
+    weight = 3
 [[menu.main]]
-  identifier = "MathS"
-  name = "MathS"
+  identifier = "EMT"
+  name = "EMT"
+  url = "/categories/EMT/"
+  weight = 2
+[[menu.main]]
+  identifier = "Maths"
+  name = "Maths"
   url = "/categories/MATHS/"
-  weight = 40
+  weight = 4
+#[[menu.main]]
+#  identifier = "Data structures"
+#  name = "Data structures"
+#  url = "/categories/DSA/"
+#  weight = 5

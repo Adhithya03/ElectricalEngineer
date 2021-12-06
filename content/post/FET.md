@@ -2,7 +2,7 @@
 title: "FET"
 date : 2021-11-30T11:07:34+05:30
 draft: true
-mathjax : false
+mathjax : true
 categories : ["EDC"]
 author : adhithya
 ---
@@ -13,7 +13,7 @@ author : adhithya
 
 - Voltage controlled device. Since $I_D$ can be controlled by $V_{GS}$. 
 
--  Unipolor - It either uses electrons or holes as charge carriers.
+-  Unipolar - It either uses electrons or holes as charge carriers.
 
 - Used for Amplification or  as switch.
 
@@ -28,13 +28,13 @@ author : adhithya
 
 2. MOSFET
 	
-	1. D Mosfet 
+	1. D MOSFET 
 
 		1. N-Channel
 
 		2. P-Channel  	
 
-	1. E Mosfet 
+	1. E MOSFET 
 
 		1. N-Channel
 
@@ -43,7 +43,7 @@ author : adhithya
 
 When compared to BJT 
 
- -	They have high input impedence.
+ -	They have high input impedance.
  
  - More temperature stable.
  
@@ -56,10 +56,8 @@ When compared to BJT
 
 ## Construction of N - JFET.
 
-N bar is sandwidtched between 2 P layers
+N bar is sandwiched between 2 P layers
 
 - We have 2 PN junctions , so 2 depletion region 
-<!-- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_DZ7baOhNFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 {{< youtube _DZ7baOhNFQ>}}
