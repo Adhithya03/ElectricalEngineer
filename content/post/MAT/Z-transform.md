@@ -6,11 +6,27 @@ categories : ["MATHS"]
 author : adhithya
 ---
 
+If you know what $e$ means skip this video, else please watch this
+
+{{< youtube pg827uDPFqA>}}
+
+---
+
+If you have intuitive understanding of Euler’s Formula skip this video, else please watch this
+
+
+{{< youtube qpOj98VNJi4>}}
+
+---
+
+Now let's start off with these questions.
+
+
 1. What is $Z$ ?
 
 $Z$ is a complex variable. 
 
-Where $Z = e^{iwn}\hspace{0.2cm}$ but leave this for now. Just remember Z is a complex variable (since it has $i$ term in it's power).
+Where $Z = e^{iwn}\hspace{0.2cm}$.
 
 ---
 
