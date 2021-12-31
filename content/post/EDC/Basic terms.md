@@ -1,5 +1,5 @@
 ---
-title: "Some Basic Terms"
+title: "Transistor amplifier basic terms"
 draft: false
 mathjax : true
 categories : ["EDC"]
@@ -42,3 +42,13 @@ To get most gain out of the amplifier, we need to channel our output signal to s
 
 - Since *capacitive reactance* is *much smaller* when compared to resistance $R_E$ and hence the AC signal will prefer going through bypass capacitor. Stated another way, this capacitor is effectively shorted to ground.
 
+
+
+> Resources refered
+
+
+[Neso Academy (Video)](https://www.youtube.com/watch?v=NESchIntkR8)
+
+[Electronic principles by MALVINO](https://1lib.net/dl/2829641/9c72b9)
+
+Wrote on : 31-12-2021
