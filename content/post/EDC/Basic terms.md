@@ -11,4 +11,3 @@ author : adhithya
 
 If input signal doesn't disturb the *Q-point*(operating point) of the transistor, it is small signal. 
 
-git config --global user.name Adhithya03
