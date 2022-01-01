@@ -6,6 +6,7 @@ mathjax : true
 categories : ["EDC"]
 author : adhithya
 ---
+
 - UJT has 2 doped regions with three external leads. It has one emitter and two bases.
 - The **emitter** is *heavily* doped having many holes and **n region** is lightly doped. For this reason , the resistance between bases is relatively high typically from $5\hspace{0.2cm}to\hspace{0.2cm}10\hspace{0.1cm}k\Omega$ when emitter is open. This is called **Interbase resitance**, symbolized by $R_{BB}$.
 

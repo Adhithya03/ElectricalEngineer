@@ -74,5 +74,3 @@ It is defined as the maximimum **reverse voltage** that a diode can withstand wi
 ## Used in 
 
 - [Half wave rectifier]({{<ref "/post/Half wave rectifier.md">}})
-
-
