@@ -1,5 +1,5 @@
 ---
-title: "Transformer Terms"
+title: "Basic terms [Transformers]"
 draft: false
 mathjax : true
 categories : ["EM"]
