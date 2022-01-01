@@ -1,29 +1,38 @@
 ---
 title: "Armature Windings"
-draft: true
+draft: false
 mathjax : false
 categories : ["EM"]
 author : adhithya
 ---
 
-- Armature winding of a machine is defined as an arrangement of conductors designed to produce emfs by relative motion in conductors in a heteropolar(opposite) magnetic field.
+*Armature Winding* is the winding, in which voltage is induced. *Field Winding* is the winding in which the main field flux is produced when the current through the winding is passed. Some of the basic terms related to the Armature Winding are defined as follows:
 
-- Electrical machines employ groups of conductors distributed in slots over the peripherey of the armature. The groups of conductors are connected in various types of series-parallel combinations to form armature winding.
+The conductors are connected in series so as to increase voltage rating while they are connected in parallel to increase the current rating.
 
-- The conductors are connected in series so as to increase voltage rating while they are connected in parallel to increase the current rating.
 
-Some commonly used terms associated with windings
+# Pole pitch
+
+The *angular* distance between the centers of two adjacent poles on a machine is known as pole pitch or pole span.
 
 ## Conductor
 The active length of wire or strip in the slot.
 
 ![Conductor](/EM/conductor.jpg)
 
-## Turn and Coil
-- A **turn** consists of two conductors electrically connected but magnetically separated from each other by a pole pitch or nearly so. 
+## Turn
+- A *turn* consists of two conductors electrically connected but magnetically separated from each other by a pole pitch or nearly so. 
 
-- The turns are grouped together to form a **coil**. If coil contains only one turn it is called single turn coil while coil more than one turn is called multi-turn coil.
+## Winding or Coil
+
+- The turns are grouped together to form a *coil*. If coil contains only one turn it is called single turn coil while coil more than one turn is called multi-turn coil.
 ![Turn](/EM/turn.jpg)
 
 
-*Book referred - Electrical machine design by A.K.Sawhney*(Sorry I couldn't find the pdf version of this book.)
+> References
+
+- [Armature windings](https://circuitglobe.com/armature-winding.html)
+
+- *Electrical machine design by A.K.Sawhney*
+
+Updated on 01-01-2022
