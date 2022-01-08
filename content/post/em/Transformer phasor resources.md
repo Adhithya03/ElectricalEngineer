@@ -6,7 +6,7 @@ categories : ["EM"]
 author : adhithya
 ---
 
-Read in this order
+Read in this order a
  
 [ELECTRONICS TUTORIALS Transformer on no load and load](https://www.electronics-tutorials.ws/transformer/transformer-loading.html)
 
